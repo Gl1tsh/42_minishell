@@ -19,3 +19,18 @@ This project introduces students to several key concepts in systems programming 
 - *Job Control*: Advanced features such as job control, allowing users to suspend, resume, and manage background processes, can also be implemented for extra credit.
 
 In summary, the Minishell project provides students with hands-on experience in systems programming and Unix shell scripting. It allows them to apply their knowledge of C programming and Unix system calls to create a functional command-line interface similar to popular Unix shells like Bash or Zsh.
+
+# How to launch :
+
+## First step
+- You need to clone the repository with the following command in the terminal: 
+
+```git clone https://github.com/Gl1tsh/42_minishell.git```
+
+- Now you need to enter the folder of the clone you've made
+
+## Start the program
+
+- Run the command: ```make```
+- Once compiled, launch it with the next commands : ```./minishell```
+- To quit the program, use the ```exit``` command
